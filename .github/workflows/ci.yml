@@ -29,7 +29,7 @@ jobs:
       - name: Instalar dependencias
         run: |
           python -m pip install --upgrade pip
-          pip install pygame basedpyright pytest
+          pip install -r requirements.txt
 
       - name: Rodar basedpyright (strict)
         run: python -m basedpyright

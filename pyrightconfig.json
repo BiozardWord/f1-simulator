@@ -1,0 +1,12 @@
+{
+    "typeCheckingMode": "strict",
+    "pythonVersion": "3.13",
+    "include": ["f1_simulator.py", "tests"],
+    "exclude": [
+        "**/node_modules",
+        "**/__pycache__",
+        ".venv",
+        "main.py"
+    ],
+    "reportImplicitOverride": false
+}

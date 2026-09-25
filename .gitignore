@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.basedpyright/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Save local do jogo
+data/save.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

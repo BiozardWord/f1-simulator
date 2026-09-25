@@ -1,0 +1,20 @@
+{
+    "1": {
+        "nome": "Silverstone",
+        "distancia": 5.891,
+        "tempo_estimado": 2.2,
+        "tipo": "pista de asfalto"
+    },
+    "2": {
+        "nome": "Interlagos",
+        "distancia": 4.309,
+        "tempo_estimado": 2.0,
+        "tipo": "curvas técnicas"
+    },
+    "3": {
+        "nome": "Monza",
+        "distancia": 5.793,
+        "tempo_estimado": 1.8,
+        "tipo": "alta velocidade"
+    }
+}
